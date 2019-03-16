@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Library Manager</string>
+    <string name="EmailBoxHint">Email</string>
+    <string name="PasswordBoxHint">Senha</string>
+    <string name="ForgotPasswordBoxHint">Esqueceu a senha?</string>
+    <string name="LoginBtnTxt">Login</string>
+</resources>
